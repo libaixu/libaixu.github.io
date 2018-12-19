@@ -3,6 +3,10 @@
   padding: 0;
 }
 
+body {
+  background: url('https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=2569486047,3428433554&fm=27&gp=0.jpg') 100% 100% center no-repeat;
+}
+
 header {
   background: lightgray;
   border-bottom: 1px solid black;
@@ -15,18 +19,17 @@ header {
 
 .main {
   width: 80%;
-  margin: 10px auto;
+  margin: 5px auto;
   background: lightgray;
 }
 
 .first {
   height: 30px;
-  margin: 5px 5px;
+  padding: 5px 0;
 }
 
 .first a {
   display: inline-block;
-  text-align: center;
   height: 100%;
   line-height: 30px;
   text-decoration: none;
