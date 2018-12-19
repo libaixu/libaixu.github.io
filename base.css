@@ -6,7 +6,7 @@
 body {
   width: 100%;
   min-height: 730px;
-  background-size: 100% 100%; 
+  /* background-size: 100% 100%;  */
   background: url('https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=2569486047,3428433554&fm=27&gp=0.jpg') center no-repeat;
 }
 
