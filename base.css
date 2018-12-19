@@ -12,7 +12,7 @@ body {
 
 header {
   background: lightgray;
-  opacity: 0.5;
+  opacity: 0.8;
   border-bottom: 1px solid black;
   height: 65px;
   font-size: 25px;
@@ -25,7 +25,7 @@ header {
   width: 80%;
   margin: 5px auto;
   background: lightgray;
-  opacity: 0.7;
+  opacity: 0.8;
 }
 
 .first {
