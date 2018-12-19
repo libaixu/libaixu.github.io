@@ -12,3 +12,27 @@ header {
   text-align: center;
   text-shadow: 2px 2px 5px green;
 }
+
+.main {
+  width: 80%;
+  margin: 10px auto;
+  background: lightgray;
+}
+
+.first {
+  height: 20px;
+  margin: 5px 5px;
+  border: 1px solid gray;
+}
+
+.first a {
+  display: inline-block;
+  margin: 0 auto;
+  height: 100%;
+  line-height: 20px;
+  text-decoration: none;
+}
+
+.first a:hover {
+  color: red;
+}
