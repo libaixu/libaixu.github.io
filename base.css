@@ -5,9 +5,10 @@
 
 header {
   background: lightgray;
-  height: 30px;
+  border-bottom: 1px solid black;
+  height: 65px;
   font-size: 25px;
-  line-height: 30px;
+  line-height: 65px;
   text-align: center;
   text-shadow: 2px 2px 5px green;
 }
