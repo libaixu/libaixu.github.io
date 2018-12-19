@@ -20,17 +20,19 @@ header {
 }
 
 .first {
-  height: 20px;
+  height: 30px;
   margin: 5px 5px;
-  border: 1px solid gray;
 }
 
 .first a {
   display: inline-block;
-  margin: 0 auto;
+  text-align: center;
   height: 100%;
-  line-height: 20px;
+  line-height: 30px;
   text-decoration: none;
+  color: black;
+  font-size: 15px;
+  font-weight: bold;
 }
 
 .first a:hover {
