@@ -4,11 +4,15 @@
 }
 
 body {
+  width: 100%;
+  min-height: 730px;
+  background-size: 100% 100%; 
   background: url('https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=2569486047,3428433554&fm=27&gp=0.jpg') center no-repeat;
 }
 
 header {
   background: lightgray;
+  opacity: 0.5;
   border-bottom: 1px solid black;
   height: 65px;
   font-size: 25px;
@@ -21,6 +25,7 @@ header {
   width: 80%;
   margin: 5px auto;
   background: lightgray;
+  opacity: 0.7;
 }
 
 .first {
@@ -30,6 +35,7 @@ header {
 
 .first a {
   display: inline-block;
+  margin-left: 30px;
   height: 100%;
   line-height: 30px;
   text-decoration: none;
